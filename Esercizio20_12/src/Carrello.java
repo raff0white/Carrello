@@ -2,6 +2,7 @@
 public class Carrello {
 	
 	private int amount;
+	private int sum;
 	
 	public Carrello() {
 		amount=0;
