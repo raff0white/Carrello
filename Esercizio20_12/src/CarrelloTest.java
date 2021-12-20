@@ -33,5 +33,7 @@ class CarrelloTest {
 		carrello.removeOneProduct();
 		assertEquals(expected, carrello.getAmount());
 	}
+	
+	
 
 }
