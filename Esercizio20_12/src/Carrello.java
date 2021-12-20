@@ -23,6 +23,9 @@ public class Carrello {
 		amount--;
 	}
 	
+	public void metodo_modifica () {
+		System.out.println("ho modificato");
+	}
 	
 	
 	
