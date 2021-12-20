@@ -3,6 +3,7 @@ public class Carrello {
 	
 	private int amount;
 	private int sum;
+	private String modifica_locale;
 	
 	public Carrello() {
 		amount=0;
@@ -20,5 +21,8 @@ public class Carrello {
 		if (amount>0)
 		amount--;
 	}
+	
+	
+	
 	
 }
