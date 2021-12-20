@@ -3,6 +3,7 @@ public class Carrello {
 	
 	private int amount;
 	private int sum;
+	private String modifica_remota;
 	
 	public Carrello() {
 		amount=0;
